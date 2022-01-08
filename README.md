@@ -1,24 +1,21 @@
-# README
+SPENDY - Overview
+This APP was built for a user to be able to control the spends and have an actual notion of the money left to be used in other spends in the future.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Technology
 
-Things you may want to cover:
+For the Back end
+  Ruby
+  Rails
+  Postman 
+  Heroku : https://backend-spends.herokuapp.com/spends/
+  
+For the Frontend
+  React
+  JavaScript
+  HTML
+  CSS
+  Netlify
 
-* Ruby version
+Usage - Future development
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  This App runs with no errors, but a new version to add more functionalities that will let us organize the spend by concept and have a monthly report.
